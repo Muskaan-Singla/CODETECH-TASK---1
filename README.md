@@ -76,15 +76,15 @@ Provides information about the app, company background, and contact details.
 Enhances transparency and builds trust with users.
 
 
-### Key Features:
+### Key Features
 User-Friendly Navigation: Designed with intuitive navigation to ensure easy access to each screen.
 Consistent Layout: Each screen follows a consistent design structure to maintain familiarity.
 Focus on Usability: Wireframes prioritize functionality and simplicity, ensuring a smooth user experience.
 
 
-### Tools Used:
+### Tools Used
 Figma: All wireframes were designed using Figma, allowing easy iteration and collaboration.
 
 
-### Project Impact:
+### Project Impact
 This wireframing project helped in defining the app’s structure and flow, enabling stakeholders and developers to visualize the user journey. The wireframes are a critical step in translating ideas into a user-centered design that ensures the app is easy to use and navigate
