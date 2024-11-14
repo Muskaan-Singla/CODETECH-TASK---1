@@ -98,19 +98,38 @@ This wireframing project helped in defining the app’s structure and flow, enab
 ![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/TASK%201%20PROTYPING.png?raw=true)
 
 
-![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/TASK%201%20PROTYPING.png?raw=true)
 
 
-![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/TASK%201%20PROTYPING.png?raw=true)
 
 
-![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/TASK%201%20PROTYPING.png?raw=true)
 
 
-![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/TASK%201%20PROTYPING.png?raw=true)
 
 
-![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/TASK%201%20PROTYPING.png?raw=true)
+![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/SPLASH%20SCREEN.png?raw=true)
+
+
+![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/ONBOARDING%20SCREEN%201.png?raw=true)
+
+
+![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/ONBOARDING%20SCREEN%202.png?raw=true)
+
+
+![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/LOGIN%20SCREEN.png?raw=true)
+
+
+![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/HOME%20SCREEN.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/TASK%201%20PROTYPING.png?raw=true)
