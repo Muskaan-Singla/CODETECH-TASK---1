@@ -95,4 +95,4 @@ This wireframing project helped in defining the app’s structure and flow, enab
 
 
 
-
+![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/Task%201%20CODETECH.png?raw=true)
