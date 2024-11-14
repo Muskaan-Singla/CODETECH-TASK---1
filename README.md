@@ -90,12 +90,7 @@ Figma: All wireframes were designed using Figma, allowing easy iteration and col
 This wireframing project helped in defining the app’s structure and flow, enabling stakeholders and developers to visualize the user journey. The wireframes are a critical step in translating ideas into a user-centered design that ensures the app is easy to use and navigate
 
 
-![Alt text]("C:\Users\ayush\Downloads\Task 1 CODETECH.png")
-
-
-
-![Alt text]("C:\Users\ayush\Downloads\TASK 1 PROTYPING.png")
-
+https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/Task%201%20CODETECH.png?raw=true
 
 
 
