@@ -94,6 +94,7 @@ This wireframing project helped in defining the app’s structure and flow, enab
 
 
 **PROTOTYPING OF THE PROJECT**
+
 ![App Wireframe](https://github.com/Muskaan-Singla/CODETECH-TASK---1/blob/main/TASK%201%20PROTYPING.png?raw=true)
 
 
